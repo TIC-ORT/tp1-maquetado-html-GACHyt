@@ -1,0 +1,60 @@
+.navbar{
+
+    background-color: rgb(255, 204, 110);
+    height: 50px;
+    width: 75vw;
+    margin: 40px auto 0 auto;
+    display: flex;
+}
+.caja1{
+    background-color: white;
+    height: 15px;
+    width: 100px;
+    margin: auto;
+}
+.caja2{
+    background-color: white;
+    height: 15px;
+    width: 200px;
+    margin: auto;
+}
+.caja3{
+    background-color: white;
+    height: 15px;
+    width: 200px;
+    margin: auto;
+}
+.caja4{
+    background-color: white;
+    height: 15px;
+    width: 200px;
+    margin: auto;
+}
+.caja5{
+    background-color: white;
+    height: 15px;
+    width: 200px;
+    margin: auto;
+}
+
+.cajas{
+    display: flex;
+}
+
+.caja_chica{
+
+    background-color: rgb(255, 179, 37);
+    border: 35px solid rgb(255, 204, 110);
+    height: 80px;
+    width: 160px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.caja_grande{
+    background-color: gray;
+    width: 800px;
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
