@@ -5,36 +5,38 @@
     width: 75vw;
     margin: 40px auto 0 auto;
     display: flex;
+    align-items: center;
 }
 .caja1{
     background-color: white;
     height: 15px;
-    width: 100px;
-    margin: auto;
+    width: 10vw;
+    margin-left: 200px;
 }
 .caja2{
     background-color: white;
     height: 15px;
-    width: 200px;
-    margin: auto;
+    width: 10vw;
+    margin-left: 50px;
 }
 .caja3{
     background-color: white;
     height: 15px;
-    width: 200px;
-    margin: auto;
+    width: 10vw;
+    margin-left: 50px;
 }
 .caja4{
     background-color: white;
     height: 15px;
-    width: 200px;
-    margin: auto;
+    width: 10vw;
+    margin-left: 50px;
 }
 .caja5{
     background-color: white;
     height: 15px;
-    width: 200px;
-    margin: auto;
+    width: 10vw;
+    margin-left: 50px;
+    margin-right: 200px;
 }
 
 .cajas{
@@ -57,4 +59,34 @@
     height: 400px;
     margin-top: 80px;
     margin-left: 100px;
+    display: flex;
+}
+.caja_gris{
+    background-color: rgb(72, 78, 85);
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.texto{
+    display: flex;
+    margin-left: 50px;
+    flex-direction: column;
+    gap: 15px;
+    width: 50%;
+    margin-right: 50px;
+}
+
+.titulo_amarillo{
+    background-color: rgb(255, 204, 110);
+    width: 150px;
+    height: 25px;
+    margin-top: 50px;
+}
+.textito{
+    background-color: beige;
+    width: 100%;
+    height: 10px;
 }
