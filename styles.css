@@ -193,17 +193,210 @@
     height: 100%;
     display: flex;
     align-items: center;
+    gap: 10px;
 }
 .otros_videos{
-    background-color: tomato;
-    width: 50%;
+    width: 40%;
     height: 80%;
+    margin-left: 15%;
     margin: auto;
-}
-.flechas{
-    background-color: turquoise;
     display: flex;
     flex-direction: column;
+    gap: 12%;
+}
+.video_completo1{
+    width: 100%;
+    height: 16%;
+    display: flex;
+    flex-direction: row;
+}
+
+.video_chico1{
+    background-color: rgb(197, 197, 197);
+    width: 40%;
+    height: 100%;
+}
+.texto_video1{
+    width: 56%;
+    height: 100%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
+.tit_texto_video1{
+    background-color: gray;
+    width: 100%;
+    height: 20%;
+}
+.txt11{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+    margin-top: 5px;
+}
+.txt12{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+}
+.txt13{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+}
+.txt14{
+    background-color: white;
+    width: 85%;
+    height: 5%;
+}
+
+.video_completo2{
+    width: 100%;
+    height: 16%;
+    display: flex;
+    flex-direction: row;
+}
+
+.video_chico2{
+    background-color: rgb(197, 197, 197);
+    width: 40%;
+    height: 100%;
+}
+.texto_video2{
+    width: 56%;
+    height: 100%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
+.tit_texto_video2{
+    background-color: gray;
+    width: 100%;
+    height: 20%;
+}
+.txt21{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+    margin-top: 5px;
+}
+.txt22{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+}
+.txt23{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+}
+.txt24{
+    background-color: white;
+    width: 85%;
+    height: 5%;
+}
+
+.video_completo3{
+    width: 100%;
+    height: 16%;
+    display: flex;
+    flex-direction: row;
+}
+
+.video_chico3{
+    background-color: rgb(197, 197, 197);
+    width: 40%;
+    height: 100%;
+}
+.texto_video3{
+    width: 56%;
+    height: 100%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
+.tit_texto_video3{
+    background-color: gray;
+    width: 100%;
+    height: 20%;
+}
+.txt31{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+    margin-top: 5px;
+}
+.txt32{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+}
+.txt33{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+}
+.txt34{
+    background-color: white;
+    width: 85%;
+    height: 5%;
+}
+
+.video_completo4{
+    width: 100%;
+    height: 16%;
+    display: flex;
+    flex-direction: row;
+}
+
+.video_chico4{
+    background-color: rgb(197, 197, 197);
+    width: 40%;
+    height: 100%;
+}
+.texto_video4{
+    width: 56%;
+    height: 100%;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+}
+.tit_texto_video4{
+    background-color: gray;
+    width: 100%;
+    height: 20%;
+}
+.txt41{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+    margin-top: 5px;
+}
+.txt42{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+}
+.txt43{
+    background-color: white;
+    width: 100%;
+    height: 5%;
+}
+.txt44{
+    background-color: white;
+    width: 85%;
+    height: 5%;
+}
+
+.flechas{
+    background-color: blue;
+    width: 25%;
+    height: 80%;
+    margin: auto;
 }
 /*.flecha1{
     border-left: 24px solid transparent;
